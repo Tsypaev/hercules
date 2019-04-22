@@ -12,5 +12,3 @@ Hercules requires Maven 3.3.9 or higher. Java 8 is used to build project.
 ```
 mvn package
 ```
-
-?
